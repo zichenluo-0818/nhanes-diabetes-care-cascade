@@ -1,0 +1,107 @@
+scope,stage,variable,level,denominator_n,events_n,nonevents_n
+2017-2018,Diagnosis,insured,Insured,888,734,154
+2017-2018,Diagnosis,insured,Uninsured,104,70,34
+2017-2018,Diagnosis,insured,Missing,2,0,2
+2017-2018,Diagnosis,pir_group,1.30-<3.50,377,306,71
+2017-2018,Diagnosis,pir_group,<1.30,245,202,43
+2017-2018,Diagnosis,pir_group,>=3.50,242,191,51
+2017-2018,Diagnosis,pir_group,Missing,130,105,25
+2017-2018,Diagnosis,education,College graduate or above,193,147,46
+2017-2018,Diagnosis,education,High school/GED,230,189,41
+2017-2018,Diagnosis,education,Less than high school,262,211,51
+2017-2018,Diagnosis,education,Some college/AA,306,255,51
+2017-2018,Diagnosis,education,Missing,3,2,1
+2017-2018,Diagnosis,race_ethnicity,Mexican American,151,121,30
+2017-2018,Diagnosis,race_ethnicity,Non-Hispanic Asian,143,106,37
+2017-2018,Diagnosis,race_ethnicity,Non-Hispanic Black,239,179,60
+2017-2018,Diagnosis,race_ethnicity,Non-Hispanic White,313,281,32
+2017-2018,Diagnosis,race_ethnicity,Other Hispanic,92,71,21
+2017-2018,Diagnosis,race_ethnicity,Other/multiracial,56,46,10
+2017-2018,Pharmacological treatment,insured,Insured,734,635,99
+2017-2018,Pharmacological treatment,insured,Uninsured,70,50,20
+2017-2018,Pharmacological treatment,pir_group,1.30-<3.50,306,264,42
+2017-2018,Pharmacological treatment,pir_group,<1.30,202,161,41
+2017-2018,Pharmacological treatment,pir_group,>=3.50,191,168,23
+2017-2018,Pharmacological treatment,pir_group,Missing,105,92,13
+2017-2018,Pharmacological treatment,education,College graduate or above,147,130,17
+2017-2018,Pharmacological treatment,education,High school/GED,189,161,28
+2017-2018,Pharmacological treatment,education,Less than high school,211,175,36
+2017-2018,Pharmacological treatment,education,Some college/AA,255,218,37
+2017-2018,Pharmacological treatment,education,Missing,2,1,1
+2017-2018,Pharmacological treatment,race_ethnicity,Mexican American,121,101,20
+2017-2018,Pharmacological treatment,race_ethnicity,Non-Hispanic Asian,106,99,7
+2017-2018,Pharmacological treatment,race_ethnicity,Non-Hispanic Black,179,158,21
+2017-2018,Pharmacological treatment,race_ethnicity,Non-Hispanic White,281,229,52
+2017-2018,Pharmacological treatment,race_ethnicity,Other Hispanic,71,64,7
+2017-2018,Pharmacological treatment,race_ethnicity,Other/multiracial,46,34,12
+2017-2018,Glycemic control,insured,Insured,635,297,338
+2017-2018,Glycemic control,insured,Uninsured,50,11,39
+2017-2018,Glycemic control,pir_group,1.30-<3.50,264,118,146
+2017-2018,Glycemic control,pir_group,<1.30,161,56,105
+2017-2018,Glycemic control,pir_group,>=3.50,168,90,78
+2017-2018,Glycemic control,pir_group,Missing,92,44,48
+2017-2018,Glycemic control,education,College graduate or above,130,64,66
+2017-2018,Glycemic control,education,High school/GED,161,77,84
+2017-2018,Glycemic control,education,Less than high school,175,62,113
+2017-2018,Glycemic control,education,Some college/AA,218,104,114
+2017-2018,Glycemic control,education,Missing,1,1,0
+2017-2018,Glycemic control,race_ethnicity,Mexican American,101,40,61
+2017-2018,Glycemic control,race_ethnicity,Non-Hispanic Asian,99,48,51
+2017-2018,Glycemic control,race_ethnicity,Non-Hispanic Black,158,70,88
+2017-2018,Glycemic control,race_ethnicity,Non-Hispanic White,229,110,119
+2017-2018,Glycemic control,race_ethnicity,Other Hispanic,64,22,42
+2017-2018,Glycemic control,race_ethnicity,Other/multiracial,34,18,16
+2013-2018,Diagnosis,insured,Insured,2419,2024,395
+2013-2018,Diagnosis,insured,Uninsured,336,244,92
+2013-2018,Diagnosis,insured,Missing,3,1,2
+2013-2018,Diagnosis,pir_group,1.30-<3.50,985,816,169
+2013-2018,Diagnosis,pir_group,<1.30,876,722,154
+2013-2018,Diagnosis,pir_group,>=3.50,607,496,111
+2013-2018,Diagnosis,pir_group,Missing,290,235,55
+2013-2018,Diagnosis,education,College graduate or above,487,388,99
+2013-2018,Diagnosis,education,High school/GED,636,523,113
+2013-2018,Diagnosis,education,Less than high school,832,685,147
+2013-2018,Diagnosis,education,Some college/AA,796,668,128
+2013-2018,Diagnosis,education,Missing,7,5,2
+2013-2018,Diagnosis,race_ethnicity,Mexican American,519,430,89
+2013-2018,Diagnosis,race_ethnicity,Non-Hispanic Asian,327,246,81
+2013-2018,Diagnosis,race_ethnicity,Non-Hispanic Black,660,526,134
+2013-2018,Diagnosis,race_ethnicity,Non-Hispanic White,851,739,112
+2013-2018,Diagnosis,race_ethnicity,Other Hispanic,302,244,58
+2013-2018,Diagnosis,race_ethnicity,Other/multiracial,99,84,15
+2013-2018,Pharmacological treatment,insured,Insured,2022,1713,309
+2013-2018,Pharmacological treatment,insured,Uninsured,244,168,76
+2013-2018,Pharmacological treatment,insured,Missing,1,1,0
+2013-2018,Pharmacological treatment,pir_group,1.30-<3.50,815,691,124
+2013-2018,Pharmacological treatment,pir_group,<1.30,721,571,150
+2013-2018,Pharmacological treatment,pir_group,>=3.50,496,419,77
+2013-2018,Pharmacological treatment,pir_group,Missing,235,201,34
+2013-2018,Pharmacological treatment,education,College graduate or above,388,336,52
+2013-2018,Pharmacological treatment,education,High school/GED,523,425,98
+2013-2018,Pharmacological treatment,education,Less than high school,685,566,119
+2013-2018,Pharmacological treatment,education,Some college/AA,666,551,115
+2013-2018,Pharmacological treatment,education,Missing,5,4,1
+2013-2018,Pharmacological treatment,race_ethnicity,Mexican American,429,334,95
+2013-2018,Pharmacological treatment,race_ethnicity,Non-Hispanic Asian,246,223,23
+2013-2018,Pharmacological treatment,race_ethnicity,Non-Hispanic Black,525,450,75
+2013-2018,Pharmacological treatment,race_ethnicity,Non-Hispanic White,739,616,123
+2013-2018,Pharmacological treatment,race_ethnicity,Other Hispanic,244,199,45
+2013-2018,Pharmacological treatment,race_ethnicity,Other/multiracial,84,60,24
+2013-2018,Glycemic control,insured,Insured,1713,757,956
+2013-2018,Glycemic control,insured,Uninsured,168,52,116
+2013-2018,Glycemic control,insured,Missing,1,0,1
+2013-2018,Glycemic control,pir_group,1.30-<3.50,691,291,400
+2013-2018,Glycemic control,pir_group,<1.30,571,232,339
+2013-2018,Glycemic control,pir_group,>=3.50,419,197,222
+2013-2018,Glycemic control,pir_group,Missing,201,89,112
+2013-2018,Glycemic control,education,College graduate or above,336,158,178
+2013-2018,Glycemic control,education,High school/GED,425,177,248
+2013-2018,Glycemic control,education,Less than high school,566,223,343
+2013-2018,Glycemic control,education,Some college/AA,551,248,303
+2013-2018,Glycemic control,education,Missing,4,3,1
+2013-2018,Glycemic control,race_ethnicity,Mexican American,334,121,213
+2013-2018,Glycemic control,race_ethnicity,Non-Hispanic Asian,223,101,122
+2013-2018,Glycemic control,race_ethnicity,Non-Hispanic Black,450,202,248
+2013-2018,Glycemic control,race_ethnicity,Non-Hispanic White,616,289,327
+2013-2018,Glycemic control,race_ethnicity,Other Hispanic,199,68,131
+2013-2018,Glycemic control,race_ethnicity,Other/multiracial,60,28,32

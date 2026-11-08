@@ -1,0 +1,9 @@
+scope,stage,denominator_n,success_n,failure_n,weighted_percent
+2017-2018,Operational diabetes,994,994,0,100.0
+2017-2018,Diagnosed among operational diabetes,994,804,190,83.07891645907792
+2017-2018,Pharmacologically treated among diagnosed,804,685,119,83.16692979234426
+2017-2018,HbA1c <7% among diagnosed and treated,685,308,377,44.66777676237824
+2013-2018,Operational diabetes,2758,2758,0,100.0
+2013-2018,Diagnosed among operational diabetes,2758,2269,489,83.8502323910731
+2013-2018,Pharmacologically treated among diagnosed,2267,1882,385,83.03728550930306
+2013-2018,HbA1c <7% among diagnosed and treated,1882,809,1073,44.916570612420955
