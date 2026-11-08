@@ -1,0 +1,16 @@
+# NHANES public-use source and participant-level derived data are reproducible
+# from the download manifest and analysis scripts and are not stored in Git.
+data/raw/
+data/derived/
+
+# Local environments and caches
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules
+
+# Temporary Office files
+~$*.xlsx
+~$*.docx
